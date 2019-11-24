@@ -1,0 +1,7 @@
+C:\Users\bryce\Desktop\CSharp\Battleship2\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\bryce\Desktop\CSharp\Battleship2\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\bryce\Desktop\CSharp\Battleship2\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\bryce\Desktop\CSharp\Battleship2\BattleShip\obj\Debug\BattleShip.csprojAssemblyReference.cache
+C:\Users\bryce\Desktop\CSharp\Battleship2\BattleShip\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\bryce\Desktop\CSharp\Battleship2\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\bryce\Desktop\CSharp\Battleship2\BattleShip\obj\Debug\BattleShip.pdb
